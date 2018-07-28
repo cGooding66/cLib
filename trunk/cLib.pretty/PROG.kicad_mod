@@ -1,0 +1,12 @@
+(module PROG (layer F.Cu) (tedit 58009478)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value PROG (at 0.00508 0) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -3.15 -1.65) (end 3.15 -1.65) (layer F.SilkS) (width 0.2))
+  (fp_line (start 3.15 -1.65) (end 3.15 1.65) (layer F.SilkS) (width 0.2))
+  (fp_line (start 3.15 1.65) (end -3.15 1.65) (layer F.SilkS) (width 0.2))
+  (fp_line (start -3.15 1.65) (end -3.15 -1.65) (layer F.SilkS) (width 0.2))
+)

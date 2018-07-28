@@ -1,0 +1,15 @@
+(module 3557-KeyStone (layer F.Cu) (tedit 5A0ED0D9)
+  (fp_text reference REF** (at 6.7945 -0.2286) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value 3557-KeyStone (at 0.4064 0.9906) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole rect (at -1.7 0) (size 3 3) (drill 1.7) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 1.7 0) (size 3 3) (drill 1.7) (layers *.Cu *.Mask))
+  (model "../../../../../../Users/Craig.Gooding/Google Drive/Home/cLib.git/trunk/3d/3557.wrl"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

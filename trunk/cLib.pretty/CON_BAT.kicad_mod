@@ -1,0 +1,11 @@
+(module CON_BAT (layer F.Cu) (tedit 58132A42)
+  (attr smd)
+  (fp_text reference J1 (at 0 0) (layer F.SilkS) hide
+    (effects (font (thickness 0.05)))
+  )
+  (fp_text value "#NAME?" (at 0 0) (layer F.SilkS) hide
+    (effects (font (thickness 0.05)))
+  )
+  (pad - thru_hole rect (at -4 0 270) (size 1.5 1.5) (drill 1.000001) (layers *.Cu *.Paste *.Mask))
+  (pad + thru_hole circle (at 0 0 270) (size 1.5 1.5) (drill 1.000001) (layers *.Cu *.Paste *.Mask))
+)

@@ -1,0 +1,2145 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 1.5pF_0402_50V
+#
+DEF ~1.5pF_0402_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "1.5pF_0402_50V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0402" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0026" 300 400 60 H I C CNN "Part Number"
+F5 "182-8869" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F7 "GRM1555C1H1R5CA01D" 550 500 60 H I C CNN "manf#"
+F8 "MURATA" -200 500 60 H I C CNN "Manufacturer"
+F9 "50V" 125 -75 50 H V L CNN "Voltage"
+F10 "1.5pF" 125 0 50 H V L CNN "Capacitance"
+F11 "0402" 225 -150 50 H V C CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1.5pF_0603_50V
+#
+DEF ~1.5pF_0603_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "1.5pF_0603_50V" -400 600 50 H I L CNN
+F2 "cLib:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0021" 300 400 60 H I C CNN "Part Number"
+F5 "252-2404" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F7 "C0603C159C5GACTU" 550 500 60 H I C CNN "manf#"
+F8 "KEMET" -200 500 60 H I C CNN "Manufacturer"
+F9 "50V" 125 -75 50 H V L CNN "Voltage"
+F10 "1.5pF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100nF_0402_16V
+#
+DEF ~100nF_0402_16V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "100nF_0402_16V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0402" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0061" 300 400 60 H I C CNN "Part Number"
+F6 "128-8252" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "C0402C104K4RACTU" 550 500 60 H I C CNN "manf#"
+F9 "Kemet" -200 500 60 H I C CNN "Manufacturer"
+F10 "16V" 125 -75 50 H V L CNN "Voltage"
+F11 "100nF" 125 0 50 H V L CNN "Capacitance"
+F12 "0402" 125 -150 50 H V L CNN "Package"
+F13 "10%" 200 -225 50 H V C CNN "Tolerance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100nF_0603_16V
+#
+DEF ~100nF_0603_16V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "100nF_0603_16V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0004" 300 400 60 H I C CNN "Part Number"
+F6 "249-6832" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "0603B104K160CT" 550 500 60 H I C CNN "manf#"
+F9 "Walsin" -200 500 60 H I C CNN "Manufacturer"
+F10 "16V" 125 -75 50 H V L CNN "Voltage"
+F11 "100nF" 125 0 50 H V L CNN "Capacitance"
+F12 "0603" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100nF_0805_50V
+#
+DEF ~100nF_0805_50V C 0 10 N Y 1 F N
+F0 "C" 150 100 50 H V L CNN
+F1 "100nF_0805_50V" 50 -400 50 H I L CNN
+F2 "Capacitors:C_0805" 38 -150 50 H I C CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "AVX" 225 300 60 H I C CNN "Manufacturer"
+F6 "08055F104KAT2A" 325 400 60 H I C CNN "manf#"
+F7 "FARNELL" 425 500 60 H I C CNN "Supplier"
+F8 "130-1790" 525 600 60 H I C CNN "Supplier Part Number"
+F9 "0805" 150 -125 50 H V L CNN "Package"
+F10 "50V" 150 -50 50 H V L CNN "Voltage"
+F11 "110-0005" 825 900 60 H I C CNN "Part Number"
+F12 "100nF" 265 25 50 H V C CNN "Capacitance"
+F13 "5%" 205 -200 50 H V C CNN "Tolerance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100pF_0402_50V
+#
+DEF ~100pF_0402_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "100pF_0402_50V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0402" 700 400 50 H I L CNN
+F3 "" 125 75 50 H V C CNN
+F4 "110-0027" 300 400 60 H I C CNN "Part Number"
+F5 "221-8836" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F7 "GRM1555C1H101JA01D" 550 500 60 H I C CNN "manf#"
+F8 "MURATA" -200 500 60 H I C CNN "Manufacturer"
+F9 "50V" 125 -75 50 H V L CNN "Voltage"
+F10 "100pF" 125 0 50 H V L CNN "Capacitance"
+F11 "0402" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100pF_0603_50V
+#
+DEF ~100pF_0603_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "100pF_0603_50V" -400 600 50 H I L CNN
+F2 "cLib:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0022" 300 400 60 H I C CNN "Part Number"
+F5 "249-6881" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F7 "0603N101J500CT" 550 500 60 H I C CNN "manf#"
+F8 "WALSIN" -200 500 60 H I C CNN "Manufacturer"
+F9 "50V" 125 -75 50 H V L CNN "Voltage"
+F10 "100pF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100uF_FT_50V
+#
+DEF ~100uF_FT_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "100uF_FT_50V" -400 600 50 H I L CNN
+F2 "Capacitors:Capacitor_FT-CASE-G" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0074" 300 400 60 H I C CNN "Part Number"
+F6 "186-8426" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "EEEFTH101XAP" 550 500 60 H I C CNN "manf#"
+F9 "Panasonic" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "100uF" 125 0 50 H V L CNN "Capacitance"
+F12 "FT" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+P 2 0 1 0 -30 90 -30 90 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10nF_0402_50V
+#
+DEF ~10nF_0402_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "10nF_0402_50V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0402" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0063" 300 400 60 H I C CNN "Part Number"
+F6 "141-4575" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "C0402C103K5RACTU" 550 500 60 H I C CNN "manf#"
+F9 "KEMET" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "10nF" 125 0 50 H V L CNN "Capacitance"
+F12 "0402" 125 -150 50 H V L CNN "Package"
+F13 "10%" 200 -225 50 H V C CNN "Tolerance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10nF_0603_50V_5%
+#
+DEF ~10nF_0603_50V_5% C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "10nF_0603_50V_5%" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0065" 300 400 60 H I C CNN "Part Number"
+F6 "183-3871" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "06035C103JAT2A" 550 500 60 H I C CNN "manf#"
+F9 "AVX" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "10nF" 125 0 50 H V L CNN "Capacitance"
+F12 "0603" 125 -150 50 H V L CNN "Package"
+F13 "5%" 200 -225 50 H V C CNN "Tolerance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF_0402_6V3
+#
+DEF ~10uF_0402_6V3 C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "10uF_0402_6V3" -400 600 50 H I L CNN
+F2 "Capacitors:C_0402" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0062" 300 400 60 H I C CNN "Part Number"
+F6 "221-8854" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "GRM155R60J106ME44D" 550 500 60 H I C CNN "manf#"
+F9 "MuRATA" -200 500 60 H I C CNN "Manufacturer"
+F10 "6V3" 125 -75 50 H V L CNN "Voltage"
+F11 "10uF" 125 0 50 H V L CNN "Capacitance"
+F12 "0402" 125 -150 50 H V L CNN "Package"
+F13 "20%" 200 -225 50 H V C CNN "Tolerance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF_0603_6V3
+#
+DEF ~10uF_0603_6V3 C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "10uF_0603_6V3" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0007" 300 400 60 H I C CNN "Part Number"
+F6 "175-9393" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "MC0603X106M6R3CT" 550 500 60 H I C CNN "manf#"
+F9 "Multicomp" -200 500 60 H I C CNN "Manufacturer"
+F10 "6V3" 125 -75 50 H V L CNN "Voltage"
+F11 "10uF" 125 0 50 H V L CNN "Capacitance"
+F12 "0603" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF_1206_25V
+#
+DEF ~10uF_1206_25V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "10uF_1206_25V" -400 600 50 H I L CNN
+F2 "Capacitors:C_1206" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0045" 300 400 60 H I C CNN "Part Number"
+F6 "209-4044" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "12063C106KAT2A" 550 500 60 H I C CNN "manf#"
+F9 "AVX" -200 500 60 H I C CNN "Manufacturer"
+F10 "25V" 125 -75 50 H V L CNN "Voltage"
+F11 "10uF" 125 0 50 H V L CNN "Capacitance"
+F12 "1206" 125 -150 50 H V L CNN "Package"
+F13 "X7R" 200 -250 50 H V C CNN "Dialetric"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF_1206_50V
+#
+DEF ~10uF_1206_50V C 0 10 N Y 1 F N
+F0 "C" 150 100 50 H V L CNN
+F1 "10uF_1206_50V" 50 -400 50 H I L CNN
+F2 "Capacitors:C_1206" 38 -150 50 H I C CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "muRATA" 225 300 60 H I C CNN "Manufacturer"
+F6 "GRM31CR61H106MA12L" 325 400 60 H I C CNN "manf#"
+F7 "FARNELL" 425 500 60 H I C CNN "Supplier"
+F8 "261-1954" 525 600 60 H I C CNN "Supplier Part Number"
+F9 "1206" 150 -125 50 H V L CNN "Package"
+F10 "50V" 150 -50 50 H V L CNN "Voltage"
+F11 "110-0067" 825 900 60 H I C CNN "Part Number"
+F12 "10uF" 265 25 50 H V C CNN "Capacitance"
+F13 "20%" 205 -200 50 H V C CNN "Tolerance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF_25V_THT
+#
+DEF ~10uF_25V_THT C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "10uF_25V_THT" -400 600 50 H I L CNN
+F2 "" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0052" 300 400 60 H I C CNN "Part Number"
+F6 "246-6534" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "870025574003" 550 500 60 H I C CNN "manf#"
+F9 "Wurth" -200 500 60 H I C CNN "Manufacturer"
+F10 "25V" 125 -75 50 H V L CNN "Voltage"
+F11 "10uF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+P 2 0 1 0 -30 90 -30 90 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10uF_50V_THT
+#
+DEF ~10uF_50V_THT C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "10uF_50V_THT" -400 600 50 H I L CNN
+F2 "Capacitors:PANASONIC_FT_50V" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0050" 300 400 60 H I C CNN "Part Number"
+F6 "206-9014" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "ESK106M050AC3AA" 550 500 60 H I C CNN "manf#"
+F9 "Panasonic" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "10uF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+P 2 0 1 0 -30 90 -30 90 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 147uF_50V_THT
+#
+DEF ~147uF_50V_THT C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "147uF_50V_THT" -400 600 50 H I L CNN
+F2 "" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0053" 300 400 60 H I C CNN "Part Number"
+F6 "246-6555" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "870055775005" 550 500 60 H I C CNN "manf#"
+F9 "Wurth" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "47uF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+P 2 0 1 0 -30 90 -30 90 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1500uF_FK_35V
+#
+DEF ~1500uF_FK_35V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "1500uF_FK_35V" -400 600 50 H I L CNN
+F2 "" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0037" 300 400 60 H I C CNN "Part Number"
+F6 "232-6373" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "EEVFK1V152M" 550 500 60 H I C CNN "manf#"
+F9 "Panasonic" -200 500 60 H I C CNN "Manufacturer"
+F10 "35V" 125 -75 50 H V L CNN "Voltage"
+F11 "1500uF" 125 0 50 H V L CNN "Capacitance"
+F12 "FK" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -80 80 -40 80 N
+P 2 0 1 0 -60 100 -60 60 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150nF_0603_25V_10%
+#
+DEF ~150nF_0603_25V_10% C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "150nF_0603_25V_10%" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0075" 300 400 60 H I C CNN "Part Number"
+F6 "252-4825" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "0603B154K250CT" 550 500 60 H I C CNN "manf#"
+F9 "Walsin" -200 500 60 H I C CNN "Manufacturer"
+F10 "25V" 125 -75 50 H V L CNN "Voltage"
+F11 "150nF" 125 0 50 H V L CNN "Capacitance"
+F12 "0603" 125 -150 50 H V L CNN "Package"
+F13 "10%" 200 -225 50 H V C CNN "Tolerance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150uF_16V_SMD_CASE_F8
+#
+DEF ~150uF_16V_SMD_CASE_F8 C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "150uF_16V_SMD_CASE_F8" -400 600 50 H I L CNN
+F2 "" 700 400 50 H I L CNN
+F3 "" 125 75 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0056" 300 400 60 H I C CNN "Part Number"
+F6 "235-4682" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "16SVP150M" 550 500 60 H I C CNN "manf#"
+F9 "PANASONIC" -200 500 60 H I C CNN "Manufacturer"
+F10 "16V" 125 -75 50 H V L CNN "Voltage"
+F11 "150uF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -80 80 -40 80 N
+P 2 0 1 0 -60 100 -60 60 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150uF_20V_TANT
+#
+DEF ~150uF_20V_TANT C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "150uF_20V_TANT" -400 600 50 H I L CNN
+F2 "Capacitors:150UF_TANT_CASEX" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0059" 300 400 60 H I C CNN "Part Number"
+F6 "211-2979" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "T491X157K020AT" 550 500 60 H I C CNN "manf#"
+F9 "KEMET" -200 500 60 H I C CNN "Manufacturer"
+F10 "20V" 125 -75 50 H V L CNN "Voltage"
+F11 "150uF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -80 80 -40 80 N
+P 2 0 1 0 -60 100 -60 60 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150uF_25V_SMD_CASE_F
+#
+DEF ~150uF_25V_SMD_CASE_F C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "150uF_25V_SMD_CASE_F" -400 600 50 H I L CNN
+F2 "Capacitors:PANASONIC_ELEC_CAP_F" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0073" 300 400 60 H I C CNN "Part Number"
+F6 "232-6224" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "EEEFKC151XAP" 550 500 60 H I C CNN "manf#"
+F9 "PANASONIC" -200 500 60 H I C CNN "Manufacturer"
+F10 "16V" 125 -75 50 H V L CNN "Voltage"
+F11 "150uF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -80 80 -40 80 N
+P 2 0 1 0 -60 100 -60 60 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150uF_63V_THT
+#
+DEF ~150uF_63V_THT C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "150uF_63V_THT" -400 600 50 H I L CNN
+F2 "Capacitors:16MM_5MM_PITCH_CAPACITOR_HOR" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0051" 300 400 60 H I C CNN "Part Number"
+F6 "261-4106" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "A759MW157M1JAAE048" 550 500 60 H I C CNN "manf#"
+F9 "KEMET" -200 500 60 H I C CNN "Manufacturer"
+F10 "63V" 125 -75 50 H V L CNN "Voltage"
+F11 "150uF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -80 80 -40 80 N
+P 2 0 1 0 -60 100 -60 60 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 16pF_0402_50V
+#
+DEF ~16pF_0402_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "16pF_0402_50V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0402" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0035" 300 400 60 H I C CNN "Part Number"
+F6 "252-4758" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "0402N160J500CT" 550 500 60 H I C CNN "manf#"
+F9 "WALSIN" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "16pF" 125 0 50 H V L CNN "Capacitance"
+F12 "0402" 125 -150 47 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1nF_0603_25V
+#
+DEF ~1nF_0603_25V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "1nF_0603_25V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0011" 300 400 60 H I C CNN "Part Number"
+F6 "185-6347" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "Farnell" -150 300 60 H I C CNN "Supplier"
+F8 "MCSH18B102K250CT" 550 500 60 H I C CNN "manf#"
+F9 "Multicomp" -200 500 60 H I C CNN "Manufacturer"
+F10 "25V" 125 -75 50 H V L CNN "Voltage"
+F11 "1nF" 125 0 50 H V L CNN "Capacitance"
+F12 "0603" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1pF_0402_25V
+#
+DEF ~1pF_0402_25V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "1pF_0402_25V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0402" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0025" 300 400 60 H I C CNN "Part Number"
+F5 "252-4983" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F7 "C1005C0G1H010B050BA" 550 500 60 H I C CNN "manf#"
+F8 "TDK" -200 500 60 H I C CNN "Manufacturer"
+F9 "50V" 125 -75 50 H V L CNN "Voltage"
+F10 "1pF" 125 0 50 H V L CNN "Capacitance"
+F11 "0402" 125 -150 47 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1pF_0603_50V
+#
+DEF 1pF_0603_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "1pF_0603_50V" -400 600 50 H V L CNN
+F2 "cLib:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0020" 300 400 60 H I C CNN "Part Number"
+F5 "141-4611" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F7 " C0603C109C5GACTU" 550 500 60 H I C CNN "manf#"
+F8 "KEMET" -200 500 60 H I C CNN "Manufacturer"
+F9 "50V" 125 -75 50 H V L CNN "Voltage"
+F10 "1pF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uF_0603_25V
+#
+DEF ~1uF_0603_25V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "1uF_0603_25V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0014" 300 400 60 H I C CNN "Part Number"
+F6 "80-C0603Ca105M3R" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "Mouser" -150 300 60 H I C CNN "Supplier"
+F8 "C0603C105M3R" 550 500 60 H I C CNN "manf#"
+F9 "Kemet" -200 500 60 H I C CNN "Manufacturer"
+F10 "25V" 125 -75 50 H V L CNN "Voltage"
+F11 "1uF" 125 0 50 H V L CNN "Capacitance"
+F12 "0603" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1uF_1206_25V_5%
+#
+DEF ~1uF_1206_25V_5% C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "1uF_1206_25V_5%" -400 600 50 H I L CNN
+F2 "Capacitors:C_1206" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0055" 300 400 60 H I C CNN "Part Number"
+F6 "236-2126" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "GRM31MR71E105JA01L" 550 500 60 H I C CNN "manf#"
+F9 "MURATA" -200 500 60 H I C CNN "Manufacturer"
+F10 "25V" 125 -75 50 H V L CNN "Voltage"
+F11 "1uF" 125 0 50 H V L CNN "Capacitance"
+F12 "1206" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2pF_0402_50V
+#
+DEF ~2.2pF_0402_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "2.2pF_0402_50V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0402" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0039" 300 400 60 H I C CNN "Part Number"
+F6 "243-4609" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "GRM1555C1H2R2CA01D" 550 500 60 H I C CNN "manf#"
+F9 "Murata" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "2.2pF" 125 0 50 H V L CNN "Capacitance"
+F12 "0402" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.2uF_0805_50V
+#
+DEF ~2.2uF_0805_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "2.2uF_0805_50V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0805" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0032" 300 400 60 H I C CNN "Part Number"
+F6 "1288262" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "C0805C225K4RACTU" 550 500 60 H I C CNN "manf#"
+F9 "Kemet" -200 500 60 H I C CNN "Manufacturer"
+F10 "16V" 125 -75 50 H V L CNN "Voltage"
+F11 "2.2uF" 125 0 50 H V L CNN "Capacitance"
+F12 "0805" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2.4nF_0402_10V
+#
+DEF ~2.4nF_0402_10V C 0 10 N Y 1 F N
+F0 "C" 150 100 50 H V L CNN
+F1 "2.4nF_0402_10V" 50 -400 50 H I L CNN
+F2 "Capacitors:C_0402" 38 -150 50 H I C CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "MuRATA" 225 300 60 H I C CNN "Manufacturer"
+F6 "GRM1557U1A242JA01D" 325 400 60 H I C CNN "manf#"
+F7 "DIGIKEY" 425 500 60 H I C CNN "Supplier"
+F8 "490-8242-1-ND" 525 600 60 H I C CNN "Supplier Part Number"
+F9 "0402" 150 -125 50 H V L CNN "Package"
+F10 "10V" 150 -50 50 H V L CNN "Voltage"
+F11 "110-0071" 825 900 60 H I C CNN "Part Number"
+F12 "1.4nF" 265 25 50 H V C CNN "Capacitance"
+F13 "5%" 205 -200 50 H V C CNN "Tolerance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220nF_0603_50V_10%
+#
+DEF ~220nF_0603_50V_10% C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "220nF_0603_50V_10%" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0076" 300 400 60 H I C CNN "Part Number"
+F6 "234-6906" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "C1608X7R1H224K080AB" 550 500 60 H I C CNN "manf#"
+F9 "TDK" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "220nF" 125 0 50 H V L CNN "Capacitance"
+F12 "0603" 125 -150 50 H V L CNN "Package"
+F13 "10%" 200 -225 50 H V C CNN "Tolerance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220uF_CASE_D8_25V
+#
+DEF ~220uF_CASE_D8_25V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "220uF_CASE_D8_25V" -400 600 50 H I L CNN
+F2 "Capacitors:PANASONIC_CASE_D8" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0041" 300 400 60 H I C CNN "Part Number"
+F6 "186-8409" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "EEEFTE221XAP" 550 500 60 H I C CNN "manf#"
+F9 "PANASONIC" -200 500 60 H I C CNN "Manufacturer"
+F10 "25V" 125 -75 50 H V L CNN "Voltage"
+F11 "220uF" 125 0 50 H V L CNN "Capacitance"
+F12 "CASE_D8" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+P 2 0 1 0 -30 90 -30 90 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22uF_FT_50V
+#
+DEF ~22uF_FT_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "22uF_FT_50V" -400 600 50 H I L CNN
+F2 "Capacitors:PANASONIC_FT_50V" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0031" 300 400 60 H I C CNN "Part Number"
+F6 "186-8424" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "EEEFT1H220AR" 550 500 60 H I C CNN "manf#"
+F9 "Panasonic" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "22uF" 125 0 50 H V L CNN "Capacitance"
+F12 "FT" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+P 2 0 1 0 -30 90 -30 90 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 27nF_0603_50V_5%
+#
+DEF ~27nF_0603_50V_5% C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "27nF_0603_50V_5%" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0070" 300 400 60 H I C CNN "Part Number"
+F6 "723-5648" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "RS" -150 300 60 H I C CNN "Supplier"
+F8 "GRM188R71E273KA01D" 550 500 60 H I C CNN "manf#"
+F9 "MuRATA" -200 500 60 H I C CNN "Manufacturer"
+F10 "25V" 125 -75 50 H V L CNN "Voltage"
+F11 "27nF" 125 0 50 H V L CNN "Capacitance"
+F12 "0603" 125 -150 50 H V L CNN "Package"
+F13 "10%" 200 -225 50 H V C CNN "Tolerance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2nF_0603_50V_5%
+#
+DEF ~2nF_0603_50V_5% C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "2nF_0603_50V_5%" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0072" 300 400 60 H I C CNN "Part Number"
+F6 "186-5489" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "C0603C202J5GACTU" 550 500 60 H I C CNN "manf#"
+F9 "Kemet" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "2nF" 125 0 50 H V L CNN "Capacitance"
+F12 "0603" 125 -150 50 H V L CNN "Package"
+F13 "5%" 180 -220 50 H V C CNN "Tolerance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3.3uF_0603_50V
+#
+DEF ~3.3uF_0603_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "3.3uF_0603_50V" -400 600 50 H I L CNN
+F2 "cLib:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0024" 300 400 60 H I C CNN "Part Number"
+F5 "810-C1608X5R1V335KAC" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "Mouser" -150 300 60 H I C CNN "Supplier"
+F7 "C1608X5R1V335K080AC" 550 500 60 H I C CNN "manf#"
+F8 "TDK" -200 500 60 H I C CNN "Manufacturer"
+F9 "35V" 125 -75 50 H V L CNN "Voltage"
+F10 "3.3uF" 125 0 50 H V L CNN "Capacitance"
+F11 "0603" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3.3uF_1206_100V
+#
+DEF ~3.3uF_1206_100V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "3.3uF_1206_100V" -400 600 50 H I L CNN
+F2 "cLib:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0074" 300 400 60 H I C CNN "Part Number"
+F5 "810-C1608X5R1V335KAC" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "Mouser" -150 300 60 H I C CNN "Supplier"
+F7 "C3216X7S2A335M160AB" 550 500 60 H I C CNN "manf#"
+F8 "TDK" -200 500 60 H I C CNN "Manufacturer"
+F9 "100V" 125 -75 50 H V L CNN "Voltage"
+F10 "3.3uF" 125 0 50 H V L CNN "Capacitance"
+F11 "1206" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 300pF_0603_25V_2%
+#
+DEF ~300pF_0603_25V_2% C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "300pF_0603_25V_2%" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 125 75 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0068" 300 400 60 H I C CNN "Part Number"
+F6 "80-C0603C331J5G" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "Mouser" -150 300 60 H I C CNN "Supplier"
+F8 "C0603C331J5GACTU" 550 500 60 H I C CNN "manf#"
+F9 "Kemet" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "330pF" 125 0 50 H V L CNN "Capacitance"
+F12 "0603" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 30pF_0603_50V
+#
+DEF ~30pF_0603_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "30pF_0603_50V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0019" 300 400 60 H I C CNN "Part Number"
+F6 "186-5477" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 " C0603C300J5GACTU" 550 500 60 H I C CNN "manf#"
+F9 "KEMET" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "30pF" 125 0 50 H V L CNN "Capacitance"
+F12 "0603" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330nF_0603_25V
+#
+DEF ~330nF_0603_25V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "330nF_0603_25V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0042" 300 400 60 H I C CNN "Part Number"
+F5 "252-4868" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F7 "0603F334Z250CT" 550 500 60 H I C CNN "manf#"
+F8 "WALSIN" -200 500 60 H I C CNN "Manufacturer"
+F9 "25V" 125 -75 50 H V L CNN "Voltage"
+F10 "330nF" 125 0 50 H V L CNN "Capacitance"
+F11 "0603" 125 -150 47 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF_10V_TANT_CASE_D
+#
+DEF ~330uF_10V_TANT_CASE_D C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "330uF_10V_TANT_CASE_D" -400 600 50 H I L CNN
+F2 "Capacitors:TANT_CASE_D" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0038" 300 400 60 H I C CNN "Part Number"
+F6 "T495D337K10ATE150" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "Mouser" -150 300 60 H I C CNN "Supplier"
+F8 "80-T495D337K10ATE150" 550 500 60 H I C CNN "manf#"
+F9 "KEMET" -200 500 60 H I C CNN "Manufacturer"
+F10 "10V" 125 -75 50 H V L CNN "Voltage"
+F11 "330uF" 125 0 50 H V L CNN "Capacitance"
+F12 "Case D" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -80 80 -40 80 N
+P 2 0 1 0 -60 100 -60 60 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF_50V_THT
+#
+DEF ~330uF_50V_THT C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "330uF_50V_THT" -400 600 50 H I L CNN
+F2 "" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0049" 300 400 60 H I C CNN "Part Number"
+F6 "184-8510" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "ECA-1HM331" 550 500 60 H I C CNN "manf#"
+F9 "Panasonic" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "330uF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+P 2 0 1 0 -30 90 -30 90 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF_FP_35V
+#
+DEF ~330uF_FP_35V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "330uF_FP_35V" -400 600 50 H I L CNN
+F2 "Capacitors:PANASONIC_FP_CASE_G" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0033" 300 400 60 H I C CNN "Part Number"
+F6 "153-9515" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "EEEFP1V331AP" 550 500 60 H I C CNN "manf#"
+F9 "Panasonic" -200 500 60 H I C CNN "Manufacturer"
+F10 "35V" 125 -75 50 H V L CNN "Voltage"
+F11 "330uF" 125 0 50 H V L CNN "Capacitance"
+F12 "FP" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -80 80 -40 80 N
+P 2 0 1 0 -60 100 -60 60 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF_FT_35V_WURTH
+#
+DEF ~330uF_FT_35V_WURTH C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "330uF_FT_35V_WURTH" -400 600 50 H I L CNN
+F2 "Capacitors:WURTH-865080553013" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0057" 300 400 60 H I C CNN "Part Number"
+F6 "246-6322" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "865080553013" 550 500 60 H I C CNN "manf#"
+F9 "Wurth" -200 500 60 H I C CNN "Manufacturer"
+F10 "35V" 125 -75 50 H V L CNN "Voltage"
+F11 "330uF" 125 0 50 H V L CNN "Capacitance"
+F12 "5%" 180 -150 50 H V C CNN "Tolerance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+P 2 0 1 0 -30 90 -30 90 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF_FT_50V
+#
+DEF ~330uF_FT_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "330uF_FT_50V" -400 600 50 H I L CNN
+F2 "Capacitors:Capacitor_FT-CASE-G" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0048" 300 400 60 H I C CNN "Part Number"
+F6 "240-8671" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "EEEFT1H331AP" 550 500 60 H I C CNN "manf#"
+F9 "Panasonic" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "330uF" 125 0 50 H V L CNN "Capacitance"
+F12 "FT" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+P 2 0 1 0 -30 90 -30 90 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330uF_WX_16V
+#
+DEF ~330uF_WX_16V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "330uF_WX_16V" -400 600 50 H I L CNN
+F2 "Capacitors:NICHICON_GB" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0040" 300 400 60 H I C CNN "Part Number"
+F6 "882-3014" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "UWX1C100MCL2GB" 550 500 60 H I C CNN "manf#"
+F9 "Nichicon" -200 500 60 H I C CNN "Manufacturer"
+F10 "16V" 125 -75 50 H V L CNN "Voltage"
+F11 "330uF" 125 0 50 H V L CNN "Capacitance"
+F12 "WX" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+P 2 0 1 0 -30 90 -30 90 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3pF_0402_50V
+#
+DEF ~3pF_0402_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "3pF_0402_50V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0402" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0030" 300 400 60 H I C CNN "Part Number"
+F5 "252-4784" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F7 "0402N3R0C500CT" 550 500 60 H I C CNN "manf#"
+F8 "WALSIN" -200 500 60 H I C CNN "Manufacturer"
+F9 "50V" 125 -75 50 H V L CNN "Voltage"
+F10 "3pF" 125 0 50 H V L CNN "Capacitance"
+F11 "0402" 225 -150 50 H V C CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7nF_0603_50V_5%
+#
+DEF ~4.7nF_0603_50V_5% C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "4.7nF_0603_50V_5%" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0046" 300 400 60 H I C CNN "Part Number"
+F6 "1759-098" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "MC0603B472K500CT" 550 500 60 H I C CNN "manf#"
+F9 "Multicomp" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "4.7nF" 125 0 50 H V L CNN "Capacitance"
+F12 "0603" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7nF_0805_50V_5%
+#
+DEF ~4.7nF_0805_50V_5% C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "4.7nF_0805_50V_5%" -400 600 50 H I L CNN
+F2 "Capacitors:C_0805" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0047" 300 400 60 H I C CNN "Part Number"
+F6 "252-2478" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "C0805C472J5RACTU" 550 500 60 H I C CNN "manf#"
+F9 "KEMET" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "4.7nF" 125 0 50 H V L CNN "Capacitance"
+F12 "0805" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4.7uF_0805_25V_10%
+#
+DEF ~4.7uF_0805_25V_10% C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "4.7uF_0805_25V_10%" -400 600 50 H I L CNN
+F2 "Capacitors:C_0805" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0054" 300 400 60 H I C CNN "Part Number"
+F6 "249-7057" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "0805X475K250CT" 550 500 60 H I C CNN "manf#"
+F9 "Walsin" -200 500 60 H I C CNN "Manufacturer"
+F10 "25V" 125 -75 50 H V L CNN "Voltage"
+F11 "4.7nF" 125 0 50 H V L CNN "Capacitance"
+F12 "0805" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 440uF_SMD_16V
+#
+DEF ~440uF_SMD_16V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "440uF_SMD_16V" -400 600 50 H I L CNN
+F2 "Capacitors:PANASONIC_ELEC_CAP_F" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0029" 300 400 60 H I C CNN "Part Number"
+F5 "969-5710" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F7 " EEEFK1C471P" 550 500 60 H I C CNN "manf#"
+F8 "PANASONIC" -200 500 60 H I C CNN "Manufacturer"
+F9 "16V" 125 -75 50 H V L CNN "Voltage"
+F10 "440uF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+P 4 0 1 20 -80 30 -80 90 80 90 80 30 f
+X ~ 1 0 200 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470nF_0603_16V
+#
+DEF ~470nF_0603_16V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "470nF_0603_16V" -400 600 50 H I L CNN
+F2 "cLib:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0017" 300 400 60 H I C CNN "Part Number"
+F5 "221-1172" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F7 "C1608X5R1C474K080AA" 550 500 60 H I C CNN "manf#"
+F8 "TDK" -200 500 60 H I C CNN "Manufacturer"
+F9 "16V" 125 -75 50 H V L CNN "Voltage"
+F10 "470nF" 125 0 50 H V L CNN "Capacitance"
+F11 "0603" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470nF_0603_50V_5%
+#
+DEF ~470nF_0603_50V_5% C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "470nF_0603_50V_5%" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0069" 300 400 60 H I C CNN "Part Number"
+F6 "788-3007" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "RS" -150 300 60 H I C CNN "Supplier"
+F8 "C1608X7R1H474K080AC" 550 500 60 H I C CNN "manf#"
+F9 "TDK" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "470nF" 125 0 50 H V L CNN "Capacitance"
+F12 "0603" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470pF_0603_50V_5%
+#
+DEF ~470pF_0603_50V_5% C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "470pF_0603_50V_5%" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0066" 300 400 60 H I C CNN "Part Number"
+F6 "269-0386" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "06035A471KAT2A" 550 500 60 H I C CNN "manf#"
+F9 "AVX" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "470pF" 125 0 50 H V L CNN "Capacitance"
+F12 "0603" 125 -150 50 H V L CNN "Package"
+F13 "10%" 200 -225 50 H V C CNN "Tolerance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 470uF_SMD_16V
+#
+DEF ~470uF_SMD_16V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "470uF_SMD_16V" -400 600 50 H I L CNN
+F2 "Capacitors:PANASONIC_ELEC_CAP_F" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0029" 300 400 60 H I C CNN "Part Number"
+F5 "969-5710" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F7 "EEEFK1C471P" 550 500 60 H I C CNN "manf#"
+F8 "PANASONIC" -200 500 60 H I C CNN "Manufacturer"
+F9 "16V" 125 -75 50 H V L CNN "Voltage"
+F10 "470uF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+P 4 0 1 20 -80 30 -80 90 80 90 80 30 f
+X ~ 1 0 200 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47nF_0603_50V
+#
+DEF ~47nF_0603_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "47nF_0603_50V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0043" 300 400 60 H I C CNN "Part Number"
+F5 "249-6867" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F7 "0603B473K500CT" 550 500 60 H I C CNN "manf#"
+F8 "WALSIN" -200 500 60 H I C CNN "Manufacturer"
+F9 "50V" 125 -75 50 H V L CNN "Voltage"
+F10 "47nF" 125 0 50 H V L CNN "Capacitance"
+F11 "0603" 125 -150 47 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47pF_0805_200V
+#
+DEF ~47pF_0805_200V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "47pF_0805_200V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0805" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0034" 300 400 60 H I C CNN "Part Number"
+F6 "207-0478" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "C0805C470J2GACAUTO" 550 500 60 H I C CNN "manf#"
+F9 "Kemet" -200 500 60 H I C CNN "Manufacturer"
+F10 "200V" 125 -75 50 H V L CNN "Voltage"
+F11 "47pF" 125 0 50 H V L CNN "Capacitance"
+F12 "0805" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47uF_20V_TANT
+#
+DEF ~47uF_20V_TANT C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "47uF_20V_TANT" -400 600 50 H I L CNN
+F2 "Capacitors:47UF_TANT-CASE-C" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0060" 300 400 60 H I C CNN "Part Number"
+F6 "179-3891" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "T491C476K020AT" 550 500 60 H I C CNN "manf#"
+F9 "KEMET" -200 500 60 H I C CNN "Manufacturer"
+F10 "20V" 125 -75 50 H V L CNN "Voltage"
+F11 "47uF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+P 2 0 1 0 -30 90 -30 90 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47uF_50V_THT
+#
+DEF ~47uF_50V_THT C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "47uF_50V_THT" -400 600 50 H I L CNN
+F2 "Capacitors:12.5MM_5MMPITCH_HORIZONTAL" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0053" 300 400 60 H I C CNN "Part Number"
+F6 "246-6555" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "870055775005" 550 500 60 H I C CNN "manf#"
+F9 "Wurth" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "47uF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+P 2 0 1 0 -30 90 -30 90 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47uF_FK_35V
+#
+DEF ~47uF_FK_35V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "47uF_FK_35V" -400 600 50 H I L CNN
+F2 "Capacitors:EEEFK-CASE-D" 700 400 50 H I L CNN
+F3 "" 125 75 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0064" 300 400 60 H I C CNN "Part Number"
+F6 "1244-4424" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "EEEFK1V470AP" 550 500 60 H I C CNN "manf#"
+F9 "Panasonic" -200 500 60 H I C CNN "Manufacturer"
+F10 "35V" 125 -75 50 H V L CNN "Voltage"
+F11 "47uF" 125 0 50 H V L CNN "Capacitance"
+F12 "FK" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -80 80 -40 80 N
+P 2 0 1 0 -60 100 -60 60 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 68uF_25V_THT
+#
+DEF ~68uF_25V_THT C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "68uF_25V_THT" -400 600 50 H I L CNN
+F2 "Capacitors:8MM_3.5MMPITCH_VERTICAL" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0052" 300 400 60 H I C CNN "Part Number"
+F6 "246-6534" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F8 "870025574003" 550 500 60 H I C CNN "manf#"
+F9 "Wurth" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "68uF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+A 0 -210 188 1152 648 0 1 20 N -80 -40 80 -40
+P 2 0 1 20 -80 30 80 30 N
+P 2 0 1 0 -70 90 -30 90 N
+P 2 0 1 0 -50 110 -50 70 N
+P 2 0 1 0 -30 90 -30 90 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -140 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 7pF_0603_10V
+#
+DEF ~7pF_0603_10V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "7pF_0603_10V" -400 600 50 H I L CNN
+F2 "cLib:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0018" 300 400 60 H I C CNN "Part Number"
+F5 "252-6241" 300 300 60 H I C CNN "Supplier Part Number"
+F6 "FARNELL" -150 300 60 H I C CNN "Supplier"
+F7 " C1608C0G1H070D080AA" 550 500 60 H I C CNN "manf#"
+F8 "TDK" -200 500 60 H I C CNN "Manufacturer"
+F9 "50V" 125 -75 50 H V L CNN "Voltage"
+F10 "7pF" 125 0 50 H V L CNN "Capacitance"
+F11 "0603" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8.2pF_0402_50V
+#
+DEF ~8.2pF_0402_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "8.2pF_0402_50V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0402" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0028" 300 400 50 H I C CNN "Part Number"
+F5 "182-8874" 300 300 50 H I C CNN "Supplier Part Number"
+F6 "FARNELL" -150 300 50 H I C CNN "Supplier"
+F7 "GRM1555C1H8R2CA01D" 550 500 50 H I C CNN "manf#"
+F8 "MURATA" -200 500 50 H I C CNN "Manufacturer"
+F9 "50V" 125 -75 50 H V L CNN "Voltage"
+F10 "8.2pF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8.2pF_0603_50V
+#
+DEF ~8.2pF_0603_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "8.2pF_0603_50V" -400 600 50 H I L CNN
+F2 "cLib:C_0603" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "110-0020" 300 400 60 H I C CNN "Part Number"
+F5 "77-VJ0402A8R2DXACBC " 300 300 60 H I C CNN "Supplier Part Number"
+F6 "MOUSER" -150 300 60 H I C CNN "Supplier"
+F7 "VJ0402A8R2DXACW1BC" 550 500 60 H I C CNN "manf#"
+F8 "Vishay" -200 500 60 H I C CNN "Manufacturer"
+F9 "50V" 125 -75 50 H V L CNN "Voltage"
+F10 "8.2pF" 125 0 50 H V L CNN "Capacitance"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8pF_0402_50V
+#
+DEF ~8pF_0402_50V C 0 10 N Y 1 F N
+F0 "C" 125 75 50 H V L CNN
+F1 "8pF_0402_50V" -400 600 50 H I L CNN
+F2 "Capacitors:C_0402" 700 400 50 H I L CNN
+F3 "" 0 0 50 H V C CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "110-0044" 300 400 60 H I C CNN "Part Number"
+F6 "903-9997" 300 300 60 H I C CNN "Supplier Part Number"
+F7 "RS" -150 300 60 H I C CNN "Supplier"
+F8 "CGA2B2C0G1H080D050BA" 550 500 60 H I C CNN "manf#"
+F9 "TDK" -200 500 60 H I C CNN "Manufacturer"
+F10 "50V" 125 -75 50 H V L CNN "Voltage"
+F11 "8pF" 125 0 50 H V L CNN "Capacitance"
+F12 "0402" 125 -150 50 H V L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C
+#
+DEF C C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "C" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+F4 "50V" 150 -100 60 H V L CNN "Volateg"
+F5 "AVX" 225 300 60 H I L CNN "Manufacturer"
+F6 "08055F104KAT2A" 325 400 60 H I L CNN "manf#"
+F7 "110-0005" 425 500 60 H I L CNN "Part Number"
+F8 "Farnell" 525 600 60 H I L CNN "Supplier"
+F9 "130-1790" 625 700 60 H I L CNN "Supplier Part Number"
+F10 "0805" 725 800 60 H I L CNN "Package"
+$FPLIST
+ C?
+ C_????_*
+ C_????
+ SMD*_c
+ Capacitor*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 40 40 1 1 P
+X ~ 2 0 -150 110 U 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

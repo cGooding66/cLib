@@ -1,0 +1,1119 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 0R01_2512
+#
+DEF 0R01_2512 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "0R01_2512" 75 -225 50 H V L CNN
+F2 "" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "100-0047" 75 -325 60 H I L CNN "PartNumber"
+F6 "0R01" 75 -125 50 H V L CNN "Resistance"
+F7 "2512" 75 -25 50 H V L CNN "Package"
+F8 "TE CONNECTIVITY" 75 -425 60 H I L CNN "Manufacturer"
+F9 " RLP73V3AR010JTE" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F11 "211-6438" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0R02_0805
+#
+DEF 0R02_0805 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "0R02_0805" 75 -225 50 H V L CNN
+F2 "Resistors:R_0805" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "100-0001" 75 -325 60 H I L CNN "PartNumber"
+F6 "0R02" 75 -125 50 H V L CNN "Resistance"
+F7 "0805" 75 -25 50 H V L CNN "Package"
+F8 "WALSIN" 75 -425 60 H I L CNN "Manufacturer"
+F9 "WW08DR020FTL" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F11 "250-3035" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0R_0603
+#
+DEF ~0R_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "0R_0603" 75 -225 50 H I L CNN
+F2 "Resistors:R_0603" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "100-0007" 75 -325 60 H I L CNN "PartNumber"
+F6 "0R" 75 -125 50 H V L CNN "Resistance"
+F7 "0603" 75 -25 50 H V L CNN "Package"
+F8 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F9 "MC0063W06030R" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F11 "933-1662" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 0_0603
+#
+DEF ~0_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "0_0603" 75 -225 50 H I L CNN
+F2 "Resistors:R_0603" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "230-9111" 0 0 47 H I C CNN "Supplier Part Number"
+F5 "100-0015" 0 0 47 H I C CNN "Part Number"
+F6 "MC0603SAF0000T5E" 0 0 47 H I C CNN "Manufacturer Part Number"
+F7 "0R" 75 -125 50 H V L CNN "Resistance"
+F8 "0603" 75 -25 50 H V L CNN "Package"
+F9 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100K_0603
+#
+DEF ~100K_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "100K_0603" 75 -225 50 H I L CNN
+F2 "Resistors:R_0603" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "MC0063W06031100K" 0 0 60 H I C CNN "Manufacturer Part Number"
+F5 "933-0402" 0 0 60 H I C CNN "Supplier Part Number"
+F6 "100-0032" 0 0 60 H I C CNN "Part Number"
+F7 "100K" 75 0 50 H V L CNN "Resistance"
+F8 "0603" 75 -75 50 H V L CNN "Package"
+F9 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100R_0603
+#
+DEF ~100R_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "100R_0603" 75 -225 50 H I L CNN
+F2 "Resistors:R_0603" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "100-0044" 75 -325 60 H I L CNN "PartNumber"
+F6 "100R" 75 -125 50 H V L CNN "Resistance"
+F7 "0603" 75 -25 50 H V L CNN "Package"
+F8 "BOURNS" 75 -425 60 H I L CNN "Manufacturer"
+F9 "CR0603-FX-1000ELF" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F11 "200-8332" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 100R_0805
+#
+DEF ~100R_0805 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "100R_0805" 75 -225 50 H I L CNN
+F2 "cLib:R_0805" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0014" 75 -325 60 H I L CNN "PartNumber"
+F5 "100R" 75 -125 50 H V L CNN "Resistance"
+F6 "0805" 75 -25 50 H V L CNN "Package"
+F7 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F8 "MC01W08051100R" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "933-2375" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10K_0603
+#
+DEF ~10K_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "10K_0603" 75 -225 50 H I L CNN
+F2 "Resistors:R_0603" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 " CPF0603B10KE1" 400 -500 60 H I C CNN "Manufacturer Part Number"
+F6 "100-0004" 300 -350 60 H I C CNN "Part Number"
+F7 "169-7388 " 350 -700 60 H I C CNN "Supplier Part Number"
+F8 "10K" 75 0 50 H V L CNN "Resistance"
+F9 "0603" 75 -75 50 H V L CNN "Package"
+F10 "TE CONNECTIVITY" 75 -425 60 H I L CNN "Manufacturer"
+F11 "Farnell" 75 -625 60 H I L CNN "Supplier"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10K_0805
+#
+DEF 10K_0805 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "10K_0805" 75 -225 50 H V L CNN
+F2 "cLib:R_0805" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0006" 75 -325 60 H I L CNN "PartNumber"
+F5 "10K" 75 -125 50 H V L CNN "Resistance"
+F6 "0805" 75 -25 50 H V L CNN "Package"
+F7 "PANASONIC" 75 -425 60 H I L CNN "Manufacturer"
+F8 "ERA6AEB103V" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "157-7673" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10R_0603
+#
+DEF 10R_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "10R_0603" 75 -225 50 H V L CNN
+F2 "cLib:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0034" 75 -325 60 H I L CNN "PartNumber"
+F5 "10R" 75 -125 50 H V L CNN "Resistance"
+F6 "0603" 75 -25 50 H V L CNN "Package"
+F7 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F8 "MC0063W0603510R" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "933-1670" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 11K_0603
+#
+DEF 11K_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "11K_0603" 75 -225 50 H V L CNN
+F2 "cLib:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0019" 75 -325 60 H I L CNN "PartNumber"
+F5 "11K" 75 -125 50 H V L CNN "Resistance"
+F6 "0603" 75 -25 50 H V L CNN "Package"
+F7 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F8 "MC0063W0603111K" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "933-0453" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 11M_0805
+#
+DEF 11M_0805 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "11M_0805" 75 -225 50 H V L CNN
+F2 "cLib:R_0805" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0011" 75 -325 60 H I L CNN "PartNumber"
+F5 "1M" 75 -125 50 H V L CNN "Resistance"
+F6 "0805" 75 -25 50 H V L CNN "Package"
+F7 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F8 "MCMR06X1004FTL" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "207-3351" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 15K_0603
+#
+DEF ~15K_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "15K_0603" 75 -225 50 H I L CNN
+F2 "Resistors:R_0603" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "PANASONIC" 75 -425 60 H I L CNN "Manufacturer"
+F6 "ERJ3EKF1502V" 400 -500 60 H I C CNN "Manufacturer Part Number"
+F7 "100-0045" 300 -350 60 H I C CNN "Part Number"
+F8 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F9 "230-3197" 350 -700 60 H I C CNN "Supplier Part Number"
+F10 "15K" 75 0 50 H V L CNN "Resistance"
+F11 "0603" 75 -75 50 H V L CNN "Package"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 180R_0805
+#
+DEF 180R_0805 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "180R_0805" 75 -225 50 H V L CNN
+F2 "Resistors:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "100-0036" 75 -325 60 H I L CNN "PartNumber"
+F6 "180R" 75 -125 50 H V L CNN "Resistance"
+F7 "0805" 75 -25 50 H V L CNN "Package"
+F8 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F9 "MC01W08051180R" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F11 "933-2707" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1K1_0603
+#
+DEF 1K1_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "1K1_0603" 75 -225 50 H V L CNN
+F2 "cLib:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0025" 75 -325 60 H I L CNN "PartNumber"
+F5 "1K1" 75 -125 50 H V L CNN "Resistance"
+F6 "0603" 75 -25 50 H V L CNN "Package"
+F7 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F8 "MCWR06X1101FTL" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "244-7274" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1K5_0603
+#
+DEF 1K5_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "1K5_0603" 75 -225 50 H V L CNN
+F2 "cLib:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0030" 75 -325 60 H I L CNN "PartNumber"
+F5 "1K5" 75 -125 50 H V L CNN "Resistance"
+F6 "0603" 75 -25 50 H V L CNN "Package"
+F7 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F8 "MC0063W060311K5" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "933-0607" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1K_0603
+#
+DEF ~1K_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "1K_0603" 75 -225 50 H I L CNN
+F2 "cLib:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0033" 75 -325 60 H I L CNN "PartNumber"
+F5 "1K" 75 -125 50 H V L CNN "Resistance"
+F6 "0603" 75 -25 50 H V L CNN "Package"
+F7 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F8 "MC0063W060351K" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "933-1697" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1K_0805
+#
+DEF 1K_0805 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "1K_0805" 75 -225 50 H V L CNN
+F2 "cLib:R_0805" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0005" 75 -325 60 H I L CNN "PartNumber"
+F5 "1K" 75 -125 50 H V L CNN "Resistance"
+F6 "0805" 75 -25 50 H V L CNN "Package"
+F7 "VISHAY" 75 -425 60 H I L CNN "Manufacturer"
+F8 "CRCW08051K00F" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "165-2936" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1M_0805
+#
+DEF 1M_0805 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "1M_0805" 75 -225 50 H V L CNN
+F2 "cLib:R_0805" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0035" 75 -325 60 H I L CNN "PartNumber"
+F5 "1M" 75 -125 50 H V L CNN "Resistance"
+F6 "0805" 75 -25 50 H V L CNN "Package"
+F7 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F8 "MCHP05W4F1004T5E" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "157-6507" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 20K_0805
+#
+DEF 20K_0805 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "20K_0805" 75 -225 50 H V L CNN
+F2 "cLib:R_0805" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0002" 75 -325 60 H I L CNN "PartNumber"
+F5 "20K" 75 -125 50 H V L CNN "Resistance"
+F6 "0805" 75 -25 50 H V L CNN "Package"
+F7 "PANASONIC" 75 -425 60 H I L CNN "Manufacturer"
+F8 "ERJ6ENF2002V" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "205-7640" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22K_0603
+#
+DEF ~22K_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "22K_0603" 75 -225 50 H I L CNN
+F2 "Resistors:R_0603" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "MC0063W0603122K  " 0 0 60 H I C CNN "Manufacturer Part Number"
+F5 "933-0828" 0 0 60 H I C CNN "Supplier Part Number"
+F6 "100-0009" 0 0 60 H I C CNN "Part Number"
+F7 "22K" 75 -125 50 H V L CNN "Resistance"
+F8 "0603" 75 -25 50 H V L CNN "Package"
+F9 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22K_0805
+#
+DEF 22K_0805 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "22K_0805" 75 -225 50 H V L CNN
+F2 "cLib:R_0805" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "10" 0 0 60 H I C CNN "Volateg"
+F5 "100-0009" 75 -325 60 H I L CNN "PartNumber"
+F6 "22K" 75 -125 50 H V L CNN "Resistance"
+F7 "0805" 75 -25 50 H V L CNN "Package"
+F8 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F9 "MC0063W0603122K  " 75 -525 60 H I L CNN "Manufacturer Part Number"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F11 "933-0828" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22R_0603
+#
+DEF 22R_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "22R_0603" 75 -225 50 H V L CNN
+F2 "cLib:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0028" 75 -325 60 H I L CNN "PartNumber"
+F5 "22R" 75 -125 50 H V L CNN "Resistance"
+F6 "0603" 75 -25 50 H V L CNN "Package"
+F7 "VISHAY" 75 -425 60 H I L CNN "Manufacturer"
+F8 "CRCW060322R0JNEA" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "169-2521" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 240K_0603
+#
+DEF 240K_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "240K_0603" 75 -225 50 H V L CNN
+F2 "cLib:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0016" 75 -325 60 H I L CNN "PartNumber"
+F5 "240K" 75 -125 50 H V L CNN "Resistance"
+F6 "0603" 75 -25 50 H V L CNN "Package"
+F7 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F8 "MCSR06X2403FTL" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "207-4223" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 270R_0603
+#
+DEF ~270R_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "270R_0603" 75 -225 50 H I L CNN
+F2 "cLib:R_0603" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "Value" 0 0 50 H I C CNN "Manufacturer Part Number"
+F5 "Value" 0 0 50 H I C CNN "Supplier Part Number"
+F6 "Value" 0 0 50 H I C CNN "Part Number"
+F7 "100-0023" 75 -325 60 H I L CNN "PartNumber"
+F8 "270R" 75 -125 50 H V L CNN "Resistance"
+F9 "0603" 75 -25 50 H V L CNN "Package"
+F10 "BOURNS" 75 -425 60 H I L CNN "Manufacturer"
+F11 "CR0603-FX-27R0ELF" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F12 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F13 "233-3611" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 270R_0805
+#
+DEF 270R_0805 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "270R_0805" 75 -225 50 H V L CNN
+F2 "cLib:R_0805" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0013" 75 -325 60 H I L CNN "PartNumber"
+F5 "270R" 75 -125 50 H V L CNN "Resistance"
+F6 "0805" 75 -25 50 H V L CNN "Package"
+F7 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F8 "MC01W08051270R" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "933-2936" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 27R_0603
+#
+DEF ~27R_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "27R_0603" 75 -225 50 H I L CNN
+F2 "cLib:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0027" 75 -325 60 H I L CNN "PartNumber"
+F5 "27R" 75 0 50 H V L CNN "Resistance"
+F6 "0603" 75 -75 50 H V L CNN "Package"
+F7 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F8 "MC0063W0603127R" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "933-0950" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 27R_0805
+#
+DEF ~27R_0805 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "27R_0805" 75 -225 50 H I L CNN
+F2 "cLib:R_0805" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0037" 75 -325 60 H I L CNN "PartNumber"
+F5 "27R" 75 -125 50 H V L CNN "Resistance"
+F6 "0805" 75 -25 50 H V L CNN "Package"
+F7 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F8 "MCWR08X27R0FTL  " 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "244-7621" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2K2_0603
+#
+DEF 2K2_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "2K2_0603" 75 -225 50 H V L CNN
+F2 "cLib:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0012" 75 -325 60 H I L CNN "PartNumber"
+F5 "2K2" 75 -125 50 H V L CNN "Resistance"
+F6 "0603" 75 -25 50 H V L CNN "Package"
+F7 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F8 "MC0063W060312K2" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "933-0810" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 33R_1206
+#
+DEF 33R_1206 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "33R_1206" 75 -225 50 H V L CNN
+F2 "" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0008" 75 -325 60 H I L CNN "PartNumber"
+F5 "33R" 75 -125 50 H V L CNN "Resistance"
+F6 "1206" 75 -25 50 H V L CNN "Package"
+F7 "VISHAY" 75 -425 60 H I L CNN "Manufacturer"
+F8 "CRCW120633R0FKEA" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "169-2544" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 410R_0603
+#
+DEF 410R_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "410R_0603" 75 -225 50 H V L CNN
+F2 "cLib:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "10" 0 0 60 H I C CNN "Volateg"
+F5 "100-0022" 75 -325 60 H I L CNN "PartNumber"
+F6 "410R" 75 -125 50 H V L CNN "Resistance"
+F7 "0603" 75 -25 50 H V L CNN "Package"
+F8 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F9 "MC0063W06031100R" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F11 "933-0364" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 464K_0603
+#
+DEF 464K_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "464K_0603" 75 -225 50 H V L CNN
+F2 "cLib:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0020" 75 -325 60 H I L CNN "PartNumber"
+F5 "464K" 75 -125 50 H V L CNN "Resistance"
+F6 "0603" 75 -25 50 H V L CNN "Package"
+F7 "VISHAY" 75 -425 60 H I L CNN "Manufacturer"
+F8 "CRCW0603464KFKEA" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "213-8565" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47K_0603
+#
+DEF ~47K_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "47K_0603" 75 -225 50 H I L CNN
+F2 "cLib:R_0603" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0040" 300 -350 60 H I C CNN "Part Number"
+F5 "230-3213RL" 350 -700 60 H I C CNN "Supplier Part Number"
+F6 "ERJ3EKF4702V" 400 -500 60 H I C CNN "Manufacturer Part Number"
+F7 "47K" 75 -125 50 H V L CNN "Resistance"
+F8 "0603" 75 -25 50 H V L CNN "Package"
+F9 "PANASONIC" 75 -425 60 H I L CNN "Manufacturer"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 47R_0805
+#
+DEF 47R_0805 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "47R_0805" 75 -225 50 H V L CNN
+F2 "cLib:R_0805" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0031" 75 -325 60 H I L CNN "PartNumber"
+F5 "47R" 75 -125 50 H V L CNN "Resistance"
+F6 "0805" 75 -25 50 H V L CNN "Package"
+F7 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F8 "MC01W0805547R" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "933-4564" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4K7_0603
+#
+DEF ~4K7_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "4K7_0603" 75 -225 50 H I L CNN
+F2 "Resistors:R_0603" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "MCMR06X4701FTL" 0 0 60 H I C CNN "Manufacturer Part Number"
+F5 "207-3509" 0 0 60 H I C CNN "Supplier Part Number"
+F6 "100-0017" 0 0 60 H I C CNN "Part Number"
+F7 "4K7" 70 0 50 H V L CNN "Resistance"
+F8 "0603" 70 -70 50 H V L CNN "Package"
+F9 "MULTICOMP" 75 -425 60 H I L CNN "Manufacturer"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 4K7_0805
+#
+DEF ~4K7_0805 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "4K7_0805" 75 -225 50 H I L CNN
+F2 "cLib:R_0805" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "10" 0 0 60 H I C CNN "Volateg"
+F5 "100-0038" 75 -325 60 H I L CNN "PartNumber"
+F6 "4K7" 75 -125 50 H V L CNN "Resistance"
+F7 "0805" 75 -25 50 H V L CNN "Package"
+F8 "VISHAY" 75 -425 60 H I L CNN "Manufacturer"
+F9 "CRCW08054K70FKEA" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F11 "146-9923" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 560K_0603
+#
+DEF ~560K_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "560K_0603" 75 -225 50 H I L CNN
+F2 "cLib:R_0603" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 " CRCW0603560KFKEA" 860 -410 60 H I C CNN "Manufacturer Part Number"
+F5 "213-8575" 650 -630 60 H I C CNN "Supplier Part Number"
+F6 "100-0026" 320 -520 60 H I C CNN "Part Number"
+F7 "560K" 75 -125 50 H V L CNN "Resistance"
+F8 "0603" 75 -25 50 H V L CNN "Package"
+F9 "VISHAY" 75 -425 60 H I L CNN "Manufacturer"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 560R_0805
+#
+DEF 560R_0805 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "560R_0805" 75 -225 50 H V L CNN
+F2 "cLib:R_0805" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0003" 75 -325 60 H I L CNN "PartNumber"
+F5 "560R" 75 -125 50 H V L CNN "Resistance"
+F6 "0805" 75 -25 50 H V L CNN "Package"
+F7 "PANASONIC" 75 -425 60 H I L CNN "Manufacturer"
+F8 "ERJ6GEYJ561V" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "205-7696" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 56K_0603
+#
+DEF ~56K_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "56K_0603" 75 -225 50 H I L CNN
+F2 "cLib:R_0603" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0039" 275 -710 50 H I C CNN "Part Number"
+F5 "205-9648" 290 -510 50 H I C CNN "Supplier Part Number"
+F6 "ERJ3GEYJ563V" 345 -305 50 H I C CNN "Manufacturer Part Number"
+F7 "56K" 75 -125 50 H V L CNN "Resistance"
+F8 "0603" 75 -25 50 H V L CNN "Package"
+F9 "PANASONIC" 75 -425 60 H I L CNN "Manufacturer"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5K6_0603
+#
+DEF ~5K6_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "5K6_0603" 75 -225 50 H I L CNN
+F2 "Resistors:R_0603" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "PANASONIC" 75 -425 60 H I L CNN "Manufacturer"
+F5 "ERJ3EKF5601V" 400 -500 60 H I C CNN "Manufacturer Part Number"
+F6 "Value" 0 0 60 H I C CNN "Description"
+F7 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F8 "230-3182" 350 -700 60 H I C CNN "Supplier Part Number"
+F9 "100-0046" 300 -350 60 H I C CNN "Part Number"
+F10 "5K6" 75 0 50 H V L CNN "Resistance"
+F11 "0603" 75 -75 50 H V L CNN "Package"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 68R_0603
+#
+DEF 68R_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "68R_0603" 75 -225 50 H V L CNN
+F2 "Resistors:R_0603" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0024" 0 0 50 H I C CNN "Part Number"
+F5 "146-9833" 0 0 50 H I C CNN "Supplier Part Number"
+F6 "CRCW060368R0FKEA  " 0 0 50 H I C CNN "Manufacturer Part Number"
+F7 "68R" 75 -125 50 H V L CNN "Resistance"
+F8 "0603" 75 -25 50 H V L CNN "Package"
+F9 "VISHAY" 75 -425 60 H I L CNN "Manufacturer"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 75K_0603
+#
+DEF 75K_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "75K_0603" 75 -225 50 H V L CNN
+F2 "cLib:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0021" 75 -325 60 H I L CNN "PartNumber"
+F5 "75K" 75 -125 50 H V L CNN "Resistance"
+F6 "0603" 75 -25 50 H V L CNN "Package"
+F7 "VISHAY" 75 -425 60 H I L CNN "Manufacturer"
+F8 "CRCW060375K0FKEA" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "213-8485" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 887K_0603
+#
+DEF 887K_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "887K_0603" 75 -225 50 H V L CNN
+F2 "cLib:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "100-0018" 75 -325 60 H I L CNN "PartNumber"
+F5 "887K" 75 -125 50 H V L CNN "Resistance"
+F6 "0603" 75 -25 50 H V L CNN "Package"
+F7 "VISHAY" 75 -425 60 H I L CNN "Manufacturer"
+F8 "CRCW0603887KFKEA" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F9 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F10 "213-8601" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 8K2_0603
+#
+DEF 8K2_0603 R 0 0 N Y 1 F N
+F0 "R" 75 75 50 H V L CNN
+F1 "8K2_0603" 75 -225 50 H V L CNN
+F2 "Resistors:R_0603" -75 -150 30 V V L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "100-0048" 75 -325 60 H I L CNN "PartNumber"
+F6 "8K2" 75 -125 50 H V L CNN "Resistance"
+F7 "0603" 75 -25 50 H V L CNN "Package"
+F8 "WALSIN" 75 -425 60 H I L CNN "Manufacturer"
+F9 "WR06X8201FTL" 75 -525 60 H I L CNN "Manufacturer Part Number"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+F11 "249-7884" 75 -725 60 H I L CNN "Supplier Part Number"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

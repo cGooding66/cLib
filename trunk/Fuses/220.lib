@@ -1,0 +1,56 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 290mA_Ressetable_Fuse
+#
+DEF ~290mA_Ressetable_Fuse F 0 0 N Y 1 F N
+F0 "F" 75 75 50 H V L CNN
+F1 "290mA_Ressetable_Fuse" 75 -225 50 H I L CNN
+F2 "Fuses:TRF250-145" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "134-5981" 325 300 47 H I C CNN "Supplier Part Number"
+F6 "220-0002" 400 225 47 H I C CNN "Part Number"
+F7 "TRF250-145" 525 375 47 H I C CNN "manf#"
+F8 "THT" 75 -25 50 H I L CNN "Package"
+F9 "LITTLEFUSE" 75 -425 60 H I L CNN "Manufacturer"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+P 3 0 1 0 75 -75 -75 50 -75 100 N
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 50mA_Ressetable_Fuse
+#
+DEF ~50mA_Ressetable_Fuse F 0 0 N Y 1 F N
+F0 "F" 75 75 50 H V L CNN
+F1 "50mA_Ressetable_Fuse" 75 -225 50 H I L CNN
+F2 "Fuses:PPTC_Fuse_1210" -75 -150 30 V I L CNN
+F3 "" 75 75 30 H V L CNN
+F4 "Value" 0 0 60 H I C CNN "Description"
+F5 "230-9134" 325 300 47 H I C CNN "Supplier Part Number"
+F6 "220-0001" 400 225 47 H I C CNN "Part Number"
+F7 "MF-USMF005-2" 525 375 47 H I C CNN "manf#"
+F8 "SMD" 75 -25 50 H I L CNN "Package"
+F9 "BOURNS" 75 -425 60 H I L CNN "Manufacturer"
+F10 "Farnell" 75 -625 60 H I L CNN "Supplier"
+$FPLIST
+ R_*
+ Resistor_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 f
+P 3 0 1 0 75 -75 -75 50 -75 100 N
+X ~ 1 0 200 100 D 60 60 1 1 P
+X ~ 2 0 -200 100 U 60 60 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,275 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1.5pF_0402_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 1.5pF_0603_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 100nF_0402_16V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 100nF_0603_16V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 100nF_0805_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 100pF_0402_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 100pF_0603_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 100uF_FT_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 10nF_0402_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 10nF_0603_50V_5%
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 10uF_0402_6V3
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 10uF_0603_6V3
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 10uF_1206_25V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 10uF_1206_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 10uF_25V_THT
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 10uF_50V_THT
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 147uF_50V_THT
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 1500uF_FK_35V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 150nF_0603_25V_10%
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 150uF_16V_SMD_CASE_F8
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 150uF_20V_TANT
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 150uF_25V_SMD_CASE_F
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 150uF_63V_THT
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 16pF_0402_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 1nF_0603_25V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 1pF_0402_25V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 1pF_0603_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 1uF_0603_25V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 1uF_1206_25V_5%
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 2.2pF_0402_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 2.2uF_0805_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 2.4nF_0402_10V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 220nF_0603_50V_10%
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 220uF_CASE_D8_25V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 22uF_FT_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 27nF_0603_50V_5%
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 2nF_0603_50V_5%
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 3.3uF_0603_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 3.3uF_1206_100V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 300pF_0603_25V_2%
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 30pF_0603_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 330nF_0603_25V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 330uF_10V_TANT_CASE_D
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 330uF_50V_THT
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 330uF_FP_35V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 330uF_FT_35V_WURTH
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 330uF_FT_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 330uF_WX_16V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 3pF_0402_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 4.7nF_0603_50V_5%
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 4.7nF_0805_50V_5%
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 4.7uF_0805_25V_10%
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 440uF_SMD_16V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 470nF_0603_16V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 470nF_0603_50V_5%
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 470pF_0603_50V_5%
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 470uF_SMD_16V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 47nF_0603_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 47pF_0805_200V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 47uF_20V_TANT
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 47uF_50V_THT
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 47uF_FK_35V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 68uF_25V_THT
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 7pF_0603_10V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 8.2pF_0402_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 8.2pF_0603_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP 8pF_0402_50V
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+$ENDCMP
+#
+#End Doc Library

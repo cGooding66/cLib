@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMA_Edge_Mount
+D U.FL Connector
+$ENDCMP
+#
+$CMP SMA_Right_Angle_THT
+D U.FL Connector
+$ENDCMP
+#
+$CMP SMA_THT_RA
+D U.FL Connector
+$ENDCMP
+#
+$CMP U.FL
+D U.FL Connector
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,16 @@
+(module Phoenix_lightPipe_2202316 (layer F.Cu) (tedit 599D7041)
+  (fp_text reference "Light Pipe" (at -1.51638 2.667) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Phoenix_lightPipe_2202316 (at -2.3876 -4.5212) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at -3.45 0) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask)
+    (clearance 0.001))
+  (pad "" np_thru_hole circle (at 3.45 0) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask))
+  (model "../../../../../../Users/Craig.Gooding/Google Drive/Home/cLib.git/trunk/3d/HS_LC-H-D2_R2XC1-2.54_H.Select_00821945.wrl"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

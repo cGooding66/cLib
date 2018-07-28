@@ -1,0 +1,13 @@
+(module SWITCH (layer F.Cu) (tedit 5890B00A)
+  (fp_text reference SW1 (at 4.84378 -3.175) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value SWITCH (at -0.1397 -3.11658) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at -2.25 3.25) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at -2.25 -3.25) (size 1.7 1.7) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
+  (pad 3 thru_hole circle (at 2.25 -3.25) (size 1.7 1.7) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
+  (pad 4 thru_hole circle (at 2.25 3.25) (size 1.7 1.7) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
+  (pad 5 thru_hole circle (at 4.1 0) (size 1.7 1.7) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
+)

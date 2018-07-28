@@ -1,0 +1,10 @@
+(module 4mm (layer F.Cu) (tedit 58D0EF81)
+  (fp_text reference REF** (at 2.8575 -3.2385) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value 4mm (at 7.0485 -3.302) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 4.5 4.5) (drill 4) (layers *.Cu *.Mask F.SilkS)
+    (clearance 0.6))
+)

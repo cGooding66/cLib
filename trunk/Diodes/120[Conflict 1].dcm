@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED
+K LED
+$ENDCMP
+#
+$CMP LED_Amber_PLCC-4
+K LED
+$ENDCMP
+#
+$CMP LED_Green_0603
+K LED
+$ENDCMP
+#
+$CMP LED_Red_3MM_THT
+K LED
+$ENDCMP
+#
+$CMP LED_Red_PLCC-4
+K LED
+$ENDCMP
+#
+#End Doc Library

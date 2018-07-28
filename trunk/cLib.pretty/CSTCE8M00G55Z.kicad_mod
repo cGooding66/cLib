@@ -1,0 +1,13 @@
+(module CSTCE8M00G55Z (layer F.Cu) (tedit 571B17F1)
+  (fp_text reference REF** (at 3.9878 -0.0254) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value CSTCE8M00G55Z (at 0 -1.7018) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 1.6 -0.64) (end 1.6 0.64) (layer F.SilkS) (width 0.15))
+  (fp_line (start -1.6 -0.65) (end -1.6 0.65) (layer F.SilkS) (width 0.15))
+  (pad 1 smd rect (at 1.2 0) (size 0.4 2) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 0 0) (size 0.4 2) (layers F.Cu F.Paste F.Mask))
+  (pad 3 smd rect (at -1.2 0) (size 0.4 2) (layers F.Cu F.Paste F.Mask))
+)
